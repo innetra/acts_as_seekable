@@ -1,0 +1,6 @@
+MIT-LICENSE
+init.rb
+Rakefile
+README.rdoc
+lib/active_record/acts/seekable.rb
+Manifest
